@@ -29,3 +29,5 @@ def calculoFolhaPagamento():
     print(f"Salário Líquido: R$ {salario_liquido:.2f}")
 
 calculoFolhaPagamento()
+
+#pronto
